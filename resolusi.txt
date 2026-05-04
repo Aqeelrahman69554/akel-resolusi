@@ -3,5 +3,5 @@ resolusi 2026
 -belajar css
 -belajar javascrip
 -belajar bootstrap
--belajar ci
 -belajar react
+-belajar typescript
