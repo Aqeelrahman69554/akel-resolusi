@@ -2,3 +2,6 @@ resolusi 2026
 - belajar html
 -belajar css
 -belajar javascrip
+-belajar bootstrap
+-belajar ci
+-belajar react
